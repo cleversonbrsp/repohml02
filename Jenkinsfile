@@ -2,9 +2,9 @@ pipeline {
     agent any
 
     stages {
-        stage('Echo Message') {
+        stage('MENSAGEM') {
             steps {
-                echo "Hello, this is a simple Jenkins pipeline in repohml02.git!"
+                echo "SEU REPOSITORIO DE ARQUIVOS FOI VALIDADO COM SUCESSO!"
             }
         }
     }
