@@ -1,11 +1,11 @@
-pipeline {
-    agent any
+// pipeline {
+//     agent any
 
-    stages {
-        stage('MENSAGEM') {
-            steps {
-                echo "SEU REPOSITORIO DE ARQUIVOS FOI VALIDADO COM SUCESSO!"
-            }
-        }
-    }
-}
+//     stages {
+//         stage('MENSAGEM') {
+//             steps {
+//                 echo "SEU REPOSITORIO DE ARQUIVOS FOI VALIDADO COM SUCESSO!"
+//             }
+//         }
+//     }
+// }
